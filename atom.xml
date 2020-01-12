@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://yz0812.top</id>
+    <id>https://yz0812.top/</id>
     <title>Gridea</title>
-    <updated>2020-01-12T15:15:50.743Z</updated>
+    <updated>2020-01-12T15:16:24.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://yz0812.top"/>
+    <link rel="alternate" href="https://yz0812.top/"/>
     <link rel="self" href="https://yz0812.top/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://yz0812.top/images/avatar.png</logo>
